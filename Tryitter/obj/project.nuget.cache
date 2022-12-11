@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "txwQ7BkHoE1EAJ0JMXLaJHM363LTL7i+64k6hLFx9R4hzIZmwsjjiO9OP0FNii+7+BuDuSgWekoTXRG6nBOQgA==",
+  "success": true,
+  "projectFilePath": "/home/alanyfernandes/Documents/Trybe/Csharp/final-project/Tryitter/Tryitter/Tryitter.csproj",
+  "expectedPackageFiles": [
+    "/home/alanyfernandes/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/alanyfernandes/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/alanyfernandes/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/alanyfernandes/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/alanyfernandes/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/alanyfernandes/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
